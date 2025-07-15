@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # Web Developer Portfolio
 
 A modern and responsive portfolio website template for web developers. This project showcases a professional developer's profile, including skills, resume, and contact form. Built with HTML5 and CSS3, it follows clean design practices and responsive layout techniques.
