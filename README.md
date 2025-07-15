@@ -64,8 +64,3 @@ Location: Dhaka, Bangladesh
 Email: abc@def.com  
 
 ---
-
-Feel free to update any section above to reflect your real details (name, email, university, etc.).
-```
-
----
